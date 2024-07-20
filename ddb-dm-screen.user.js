@@ -24,7 +24,7 @@ const campaignElementTarget = '.ddb-campaigns-detail-header-secondary';
 const rulesUrls = ["https://character-service.dndbeyond.com/character/v4/rule-data", "https://gamedata-service.dndbeyond.com/vehicles/v3/rule-data"];
 const charJSONurlBase = "https://character-service.dndbeyond.com/character/v4/character/";
 
-const stylesheetUrls = ["https://raw.githack.com/TeaWithLucas/DNDBeyond-DM-Screen/master/dm-screen.css"]
+const stylesheetUrls = ["https://raw.githack.com/DuckMouse/DNDBeyond-DM-Screen/master/dm-screen.css"]
 
 const gameCollectionUrl = {prefix :"https://character-service.dndbeyond.com/character/v4/game-data/", postfix: "/collection"}
 const optionalRules = {
